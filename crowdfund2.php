@@ -87,7 +87,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Looking For Funds?</h2>
                     <hr class="light">
-                    <p class="text-faded">We got you covered! Simply click on the button below to start a compaign!</p>
+                    <p class="text-faded">We got you covered! Simply click on the button below to start a compaign</p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Funded!</a>
                 </div>
             </div>
