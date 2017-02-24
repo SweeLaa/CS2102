@@ -10,7 +10,7 @@
     <meta name="author" content="">
 
 
-    <title>FundForLife - Crowd Fund Campaigns</title>
+    <title>FundMyLife - Crowd Fund Campaigns</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -45,7 +45,7 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Fund For Life</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Fund My Life</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
